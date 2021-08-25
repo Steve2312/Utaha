@@ -1,0 +1,90 @@
+{
+    "lists": [
+        {
+            "title": "Genki Volume 1",
+            "description": "All vocabulary from Genki Volume 1 - Third Edition",
+            "results": [
+                {
+                    "name": "Genki Vocabulary 38.csv",
+                    "total": 66
+                },
+                {
+                    "name": "Genki Vocabulary 58.csv",
+                    "total": 57
+                },
+                {
+                    "name": "Genki Vocabulary 81.csv",
+                    "total": 19
+                },
+                {
+                    "name": "Genki Vocabulary 81-2.csv",
+                    "total": 56
+                },
+                {
+                    "name": "Genki Vocabulary 104.csv",
+                    "total": 64
+                },
+                {
+                    "name": "Genki Vocabulary 130.csv",
+                    "total": 52
+                },
+                {
+                    "name": "Genki Vocabulary 148.csv",
+                    "total": 47
+                },
+                {
+                    "name": "Genki Vocabulary 168.csv",
+                    "total": 56
+                },
+                {
+                    "name": "Genki Vocabulary 188.csv",
+                    "total": 56
+                },
+                {
+                    "name": "Genki Vocabulary 212.csv",
+                    "total": 55
+                },
+                {
+                    "name": "Genki Vocabulary 232.csv",
+                    "total": 56
+                },
+                {
+                    "name": "Genki Vocabulary 256.csv",
+                    "total": 62
+                },
+                {
+                    "name": "Genki Vocabulary 272.csv",
+                    "total": 53
+                },
+                {
+                    "name": "Colors.csv",
+                    "total": 20
+                },
+                {
+                    "name": "Directions.csv",
+                    "total": 17
+                },
+                {
+                    "name": "In Japanese Class.csv",
+                    "total": 34
+                },
+                {
+                    "name": "Parts of the body.csv",
+                    "total": 18
+                },
+                {
+                    "name": "Station.csv",
+                    "total": 35
+                },
+                {
+                    "name": "Supermarket.csv",
+                    "total": 20
+                },
+                {
+                    "name": "Merged Genki Till present.csv",
+                    "total": 726 
+                }
+            ]
+        }
+    ]
+}
